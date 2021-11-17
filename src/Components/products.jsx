@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactBootstrap from 'react-bootstrap';
 import axios from 'axios';
-import AccordionBody from 'react-bootstrap/esm/AccordionBody';
+//import AccordionBody from 'react-bootstrap/esm/AccordionBody';
 import {
   Card,
   Accordion,
